@@ -1,4 +1,4 @@
-                                  # AsistenciasApp  
+                                  # AsistenciasApp 
 Una solución digital para modernizar el registro de asistencia en instituciones educativas.  
 AsistenciasApp transforma el proceso manual de pase de lista en una tarea eficiente, rápida y confiable. 
 Utilizando tecnología móvil accesible, elimina el desperdicio de tiempo en las aulas (que suele costar entre 15 y 20 minutos por clase) y reduce drásticamente los errores humanos y la pérdida de información en registros físicos. 
